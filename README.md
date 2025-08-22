@@ -1,13 +1,13 @@
 # Data-Visualization--EV-Analysis
 Analysis of Electric Vehicle adoption in Washington State, combining government datasets on registrations, charging stations, tax exemptions, and income. Includes Python/R preprocessing, Tableau dashboards, and insights into how policy, economics, and infrastructure shape EV adoption trends.
-# 🚗 Electric Vehicle Adoption & Policy Impact in Washington State
+#  Electric Vehicle Adoption & Policy Impact in Washington State
 
 This project explores **electric vehicle (EV) adoption trends in Washington State** by analyzing data on registrations, charging infrastructure, tax exemptions, and economic factors.  
 It aims to understand **how policy (like HB 2042), income levels, and charging stations affect EV adoption**, and provides data-driven insights to guide future policies and infrastructure planning.
 
 ---
 
-## 🔍 What this project covers
+##  What this project covers
 - Trends in **EV registrations** across counties (2019–2024)  
 - Relationship between **charging station availability and adoption rates**  
 - Impact of **economic factors** (income, MSRP, sale price) on EV adoption  
@@ -16,7 +16,7 @@ It aims to understand **how policy (like HB 2042), income levels, and charging s
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 Data was collected from multiple **U.S. government datasets**, including:
 - [Washington EV Population Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2)  
 - [EV Title & Registration Activity](https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activity)  
